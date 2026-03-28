@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+	<packageId>bluebird.tammybee.restocknotification</packageId>
+	<name>Restock Notification (Continued)</name>
+	<author>bluebird</author>
+	<supportedVersions>
+		<li>1.5</li>
+		<li>1.6</li>
+	</supportedVersions>
+	<modDependencies>
+		<li>
+			<packageId>brrainz.harmony</packageId>
+			<displayName>Harmony</displayName>
+			<steamWorkshopUrl>steam://url/CommunityFilePage/2009463077</steamWorkshopUrl>
+		</li>
+	</modDependencies>
+	<loadAfter>
+		<li>brrainz.harmony</li>
+	</loadAfter>
+	<description>
+Send a letter when settlement which ever visited regenerate stock.
+
+これまでに訪れたことのある拠点の物品が再入荷されたときにアラートを通知します.
+
+[Languages]
+・English
+・Japanese
+・ChineseSimplified
+・ChineseTraditional
+・French
+
+[Important]
+This is an updated version of an existing mod, and I don't claim ownership of it. I'll remove it if the original author requests.
+Original mod：https://steamcommunity.com/sharedfiles/filedetails/?id=2079149222
+
+[License]
+- CC BY-NC-SA
+- MIT License
+Copyright 2020 TammyBee
+	</description>
+</ModMetaData>
