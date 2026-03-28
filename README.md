@@ -1,25 +1,26 @@
 # Restock Notification (Continued)
 
-[![Original](https://img.shields.io/badge/Workshop-3241844246-blue?logo=steam)](https://steamcommunity.com/sharedfiles/filedetails/?id=3241844246)
+[![Workshop](https://img.shields.io/badge/Workshop-3241844246-blue?logo=steam)](https://steamcommunity.com/sharedfiles/filedetails/?id=3241844246)
 [![RimWorld 1.5](https://img.shields.io/badge/RimWorld-1.5-brightgreen)](https://rimworldgame.com/)
 [![RimWorld 1.6](https://img.shields.io/badge/RimWorld-1.6-brightgreen)](https://rimworldgame.com/)
+
+[![Preview](About/Preview.png)](https://steamcommunity.com/sharedfiles/filedetails/?id=3241844246)
 
 Send a letter when settlement which ever visited regenerate stock.
 
 これまでに訪れたことのある拠点の物品が再入荷されたときにアラートを通知します。
 
-> This is an updated version of an existing mod, and I don't claim ownership of it. I'll remove it if the original author requests.
->
-> Original:
-> [Restock Notification[1.1-1.4]](https://steamcommunity.com/sharedfiles/filedetails/?id=2079149222)
-
 ## Language
 
-- English
-- Japanese
-- Chinese Simplified (by Zephyr)
-- Chinese Traditional (by Zephyr)
-- French (by Blake)
+| Language            | Contributor |
+| ------------------- | ----------- |
+| English             | -           |
+| Japanese            | -           |
+| Chinese Simplified  | Zephyr      |
+| Chinese Traditional | Zephyr      |
+| French              | Blake       |
+
+If you show me the link of translation file, I will add language file to mod.
 
 ## Build
 
@@ -66,3 +67,8 @@ dotnet build mod.csproj
 
 - [CC BY-NC-SA](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 - [MIT License — Copyright 2020 TammyBee](LICENSE)
+
+> This is an updated version of an existing mod, and I don't claim ownership of it. I'll remove it if the original author requests.
+>
+> Original:
+> [Restock Notification[1.1-1.4]](https://steamcommunity.com/sharedfiles/filedetails/?id=2079149222)
